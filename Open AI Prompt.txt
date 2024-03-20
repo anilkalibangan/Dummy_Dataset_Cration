@@ -1,0 +1,9 @@
+# Write R script to generate the Compensation data of a organization using below details. 
+# (1). total observations should be >1000 
+# (2) variables should be >110
+
+#give me list of 110 variables of Compensation data 
+
+# specify the each variable used in compensation database
+#its not appropriate
+# write R script to generate data (>1200 obs) for above 51 variables

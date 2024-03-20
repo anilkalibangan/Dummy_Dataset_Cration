@@ -1,0 +1,71 @@
+# EmployeeID: A unique identifier assigned to each employee.
+# Salary: The annual compensation or wage of the employee.
+# YearsExperience: The number of years of professional work experience possessed by the employee.
+# PerformanceRating: An assessment of the employee's performance, often on a numerical or categorical scale.
+# EducationLevel: The highest level of education completed by the employee (e.g., High School, Bachelor's, Master's, PhD).
+# Department: The specific department or division within the organization where the employee is employed.
+# Age: The age of the employee.
+# Gender: The gender identity of the employee (e.g., Male, Female, Non-binary).
+# Position: The job title or position held by the employee within the organization.
+# YearsInCurrentPosition: The number of years the employee has been in their current position.
+# YearsAtCompany: The total number of years the employee has been with the company.
+# MaritalStatus: The marital status of the employee (e.g., Single, Married, Divorced, Widowed).
+# PerformanceBonus: Any additional bonus or incentive paid to the employee based on their performance.
+# YearsSinceLastPromotion: The number of years since the employee's last promotion.
+# YearsWithCurrentManager: The number of years the employee has been under their current manager's supervision.
+# HourlyRate: The rate of pay per hour for employees paid on an hourly basis.
+# TotalWorkingYears: The total number of years the employee has been employed in their career.
+# OverTime: Indicates whether the employee works overtime hours (Yes/No).
+# JobSatisfaction: The level of satisfaction the employee feels with their job, often measured on a scale.
+# DistanceFromHome: The distance in miles between the employee's home and their workplace.
+# StockOptionLevel: The level of stock options granted to the employee as part of their compensation package.
+# EnvironmentSatisfaction: The satisfaction level of the employee with their work environment.
+# RelationshipSatisfaction: The satisfaction level of the employee with their working relationships.
+# TrainingTimesLastYear: The number of times the employee participated in training programs in the last year.
+# WorkLifeBalance: The balance between work and personal life as perceived by the employee.
+# MonthlyIncome: The monthly income of the employee.
+# NumCompaniesWorked: The number of different companies the employee has worked for in their career.
+# YearsSinceLastTraining: The number of years since the employee's last training session.
+# PerformanceReviewScore: The score achieved by the employee in their performance reviews.
+# CommuteDistance: The distance of the employee's commute to work, often categorized (e.g., Short, Medium, Long).
+# EducationField: The field of study or specialization of the employee's education (e.g., Engineering, Marketing, Finance).
+# JobInvolvement: The level of involvement and engagement the employee has with their job.
+# JobLevel: The hierarchical level or rank of the employee's position within the organization.
+# YearsSinceLastDegree: The number of years since the employee completed their highest degree.
+# Certifications: Any professional certifications held by the employee relevant to their job.
+# JobRole: The specific role or function performed by the employee within their department.
+# RelationshipWithManager: The quality of the relationship between the employee and their manager.
+# BusinessTravel: The frequency of business-related travel undertaken by the employee (e.g., None, Rarely, Frequently).
+# YearsWithCurrentRole: The number of years the employee has been in their current role or position.
+# JobStability: An indicator of the employee's job stability, derived from tenure and turnover rates in the organization.
+# HealthBenefits: The level of health benefits provided to the employee (e.g., Basic, Comprehensive).
+# DiversityTraining: Indicates whether the employee has received diversity and inclusion training (Yes/No).
+# YearsSinceLastJobChange: The number of years since the employee changed jobs within the company or externally.
+# EmployeeEngagementScore: A measure of the employee's overall engagement and commitment to the organization.
+# PerformanceImprovementPlan: Indicates whether the employee is currently on a performance improvement plan (Yes/No).
+# Workload: A subjective assessment of the employee's workload, often measured on a scale.
+# RelocationAssistance: Indicates whether the employee received relocation assistance upon joining the company (Yes/No).
+# JobTenure: The length of time the employee has held their current position or been employed by the company.
+# MentorshipProgramParticipation: Indicates whether the employee has participated in a mentorship program (Yes/No).
+# PerformanceRecognitionProgram: Indicates whether the employee is part of a performance recognition program (Yes/No).
+# EmployeeTurnoverRate: The rate at which employees leave the organization, calculated over a specific period.
+# EmployeeReferralProgramParticipation: Indicates whether the employee has participated in an employee referral program (Yes/No).
+# TeamworkEvaluationScore: The score received by the employee based on teamwork evaluations.
+# LeadershipEffectivenessScore: The score received by the employee based on leadership effectiveness assessments.
+# WorkplaceSafetyTraining: Indicates whether the employee has undergone workplace safety training (Yes/No).
+# EmployeeWellnessProgramParticipation: Indicates whether the employee has participated in an employee wellness program (Yes/No).
+# JobFlexibility: The level of flexibility provided to the employee in terms of work hours and location.
+# RecognitionAndRewards: The frequency and effectiveness of employee recognition and rewards programs.
+# CareerDevelopmentOpportunities: The availability and effectiveness of career development opportunities within the organization.
+# WorkplaceCultureFit: The degree to which the employee feels they fit into the organization's culture.
+# EmploymentStatus: The current employment status of the employee (e.g., Full-time, Part-time, Contract).
+# CompensationSatisfaction: The level of satisfaction the employee feels with their compensation package.
+# PerformanceFeedbackFrequency: The frequency with which the employee receives performance feedback from their manager.
+# EmployeeBenefitsPackage: The comprehensiveness and quality of the employee benefits package.
+# RemoteWorkOpportunities: The availability and extent of remote work opportunities for the employee.
+# PerformanceManagementSystemEffectiveness: The effectiveness of the organization's performance management system.
+# EmployeeAssistanceProgramAvailability: The availability of employee assistance programs for personal and professional support.
+# WorkplaceDiversityAndInclusionInitiatives: The presence and effectiveness of diversity and inclusion initiatives in the workplace.
+# EmployeeRelationsScore: The score assigned to the employee based on their relationships with colleagues and peers.
+# ProfessionalDevelopmentTraining: The availability and effectiveness of professional development training programs.
+# WorkplaceEthicsAndIntegrity: The degree to

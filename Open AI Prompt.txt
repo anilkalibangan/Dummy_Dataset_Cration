@@ -1,6 +1,7 @@
 # Write R script to generate the Compensation data of a organization using below details. 
 # (1). total observations should be >1000 
 # (2) variables should be >110
+# (3) Write data by crating Excel work book and sheet and upload data
 
 #give me list of 110 variables of Compensation data 
 
